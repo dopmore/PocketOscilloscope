@@ -72,7 +72,7 @@ void setup()
   oled.setTextSize(3);
   oled.setTextColor(WHITE);
   oled.setCursor(0, 32);
-  oled.println("Matthias");
+  oled.println("Pocket");
   oled.display();
   delay(2000);
   oled.clearDisplay();
