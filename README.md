@@ -2,7 +2,10 @@
 
 A custom tiny oscilloscope using a small oled display connected to an esp32. The objective isn't to make the best oscilloscope ever but to make it functional!
 The case includes two buttons to use the RESET and BOOTSEL button of the esp32.
-To analyse any wave you only need to connect the testing cable GND to GND and GPIO 35 (red cable) to the source input. The normalized data will then be display on the display.
+To analyse any wave you only need to connect the testing cable GND to GND and GPIO 35 (red cable) to the source input. The normalized data will then be display on the display. ([Showcase with PWM](https://youtube.com/shorts/uV1PsHpPy40?feature=share))
+
+
+<img width="420" height="595" alt="Untitled" src="https://github.com/user-attachments/assets/4f73a7a2-328a-4860-8048-791fc74f7176" />
 
 ![WhatsApp Image 2026-04-01 at 18 45 37](https://github.com/user-attachments/assets/bf537768-9224-401d-91b0-2fb2e36562bb)
 
@@ -32,9 +35,5 @@ Testing Cables (Probes):
 
 # Showcase
 
-https://github.com/user-attachments/assets/90064cc6-2fdd-47bd-9d3b-f28d7ec7607c
-
-# Zine
-
-<img width="420" height="595" alt="Untitled" src="https://github.com/user-attachments/assets/4f73a7a2-328a-4860-8048-791fc74f7176" />
+https://youtube.com/shorts/uV1PsHpPy40?feature=share
 
