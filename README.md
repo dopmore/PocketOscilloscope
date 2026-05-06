@@ -5,6 +5,7 @@
 A custom tiny oscilloscope using a small oled display connected to an esp32. 
 The objective isn't to make the best oscilloscope ever but to make it functional!
 The case includes two buttons to use the RESET and BOOTSEL button of the esp32.
+I wanted to make one because i currently don't own a real one :)!
 
 ## Wiring and assembly
 
